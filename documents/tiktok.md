@@ -6,6 +6,9 @@
 - trending tiktok content daily analysis
 - trending twitter content daily analysis
 - trending linkedin content daily analysis
+- https://www.youtube.com/shorts/ (youtube shorts)
+- instagram reels
+- pinterest
 
 
 ## Competitors or similar
