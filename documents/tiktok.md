@@ -1,6 +1,9 @@
 # One-page marketing strategy (TikTok)
 
 
+## Influencer discovery
+
+
 ## Content discovery
 
 - trending tiktok content daily analysis
